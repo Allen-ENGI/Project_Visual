@@ -1,2 +1,3 @@
 # Project_Visual
-![Alt text](plc simulator.png)
+![PLC Simulator]("graph.png")
+
